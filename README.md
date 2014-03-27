@@ -21,12 +21,12 @@ The `Offer` model should mimic the JSON data structure below:
 
 ```json
 {
-"id": 9923,
-"merchant_id": 2,
-"title": "Kaspersky $20 off promo",
-"description": "Save $20 on top Kaspersky products",
-"url": "http://usa.kaspersky.com/sem/search-aff-4prod-offer",
-"expires_at": "2014-02-20 00:00:00 -0800"
+  "id": 9923,
+  "merchant_id": 2,
+  "title": "Kaspersky $20 off promo",
+  "description": "Save $20 on top Kaspersky products",
+  "url": "http://usa.kaspersky.com/sem/search-aff-4prod-offer",
+  "expires_at": "2014-02-20 00:00:00 -0800"
 }
 ```
 
@@ -34,8 +34,8 @@ while for the `Merchant` model:
 
 ```json
 {
-"id": 2,
-"name": "Kaspersky"
+  "id": 2,
+  "name": "Kaspersky"
 }
 ```
 
