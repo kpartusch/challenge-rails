@@ -59,7 +59,7 @@ Build a simple view that can be accessed via `/offers`. Clicking on the "Crawl!"
 
 ### 5. Write RSpec Tests
 
-**Unit Tests**
+**Functional Tests**
 
 1. It should crawl the API and create offers in the database.
 2. It should be able to crawl the API multiple times and not create duplicate offers.
